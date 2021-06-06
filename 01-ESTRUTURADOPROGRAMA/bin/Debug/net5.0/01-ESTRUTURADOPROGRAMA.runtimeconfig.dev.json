@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gutoa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gutoa\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+C:\workspace\C#\01-ESTRUTURADOPROGRAMA\obj\Debug\net5.0\01-ESTRUTURADOPROGRAMA.csproj.AssemblyReference.cache
+C:\workspace\C#\01-ESTRUTURADOPROGRAMA\obj\Debug\net5.0\01-ESTRUTURADOPROGRAMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\01-ESTRUTURADOPROGRAMA\obj\Debug\net5.0\01-ESTRUTURADOPROGRAMA.AssemblyInfoInputs.cache
+C:\workspace\C#\01-ESTRUTURADOPROGRAMA\obj\Debug\net5.0\01-ESTRUTURADOPROGRAMA.AssemblyInfo.cs
+C:\workspace\C#\01-ESTRUTURADOPROGRAMA\obj\Debug\net5.0\01-ESTRUTURADOPROGRAMA.csproj.CoreCompileInputs.cache
+C:\workspace\C#\01-ESTRUTURADOPROGRAMA\bin\Debug\net5.0\01-ESTRUTURADOPROGRAMA.exe
+C:\workspace\C#\01-ESTRUTURADOPROGRAMA\bin\Debug\net5.0\01-ESTRUTURADOPROGRAMA.deps.json
+C:\workspace\C#\01-ESTRUTURADOPROGRAMA\bin\Debug\net5.0\01-ESTRUTURADOPROGRAMA.runtimeconfig.json
+C:\workspace\C#\01-ESTRUTURADOPROGRAMA\bin\Debug\net5.0\01-ESTRUTURADOPROGRAMA.runtimeconfig.dev.json
+C:\workspace\C#\01-ESTRUTURADOPROGRAMA\bin\Debug\net5.0\01-ESTRUTURADOPROGRAMA.dll
+C:\workspace\C#\01-ESTRUTURADOPROGRAMA\bin\Debug\net5.0\ref\01-ESTRUTURADOPROGRAMA.dll
+C:\workspace\C#\01-ESTRUTURADOPROGRAMA\bin\Debug\net5.0\01-ESTRUTURADOPROGRAMA.pdb
+C:\workspace\C#\01-ESTRUTURADOPROGRAMA\obj\Debug\net5.0\01-ESTRUTURADOPROGRAMA.dll
+C:\workspace\C#\01-ESTRUTURADOPROGRAMA\obj\Debug\net5.0\ref\01-ESTRUTURADOPROGRAMA.dll
+C:\workspace\C#\01-ESTRUTURADOPROGRAMA\obj\Debug\net5.0\01-ESTRUTURADOPROGRAMA.pdb
+C:\workspace\C#\01-ESTRUTURADOPROGRAMA\obj\Debug\net5.0\01-ESTRUTURADOPROGRAMA.genruntimeconfig.cache
